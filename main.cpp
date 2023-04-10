@@ -2,9 +2,9 @@
 
 using namespace std;
 
-aaaa;
+aaa
 
 int main(){
-
+    //com 1
     return 0;
 }
